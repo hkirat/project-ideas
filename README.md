@@ -10,8 +10,10 @@
 | 04 | Add move validation to make sure users can only make valid moves
 | 05 | Use either canvas or raw HTML blocks for the game. You may also use a game engine like phaser. |
 | 06 | You will need to do socket programming since this is a realtime game. |
+
 <br>
-<!-- --- -->
+<br> 
+
 | Todo | 🐤 PLAYER FLAPPY BIRD 🐤 |
 | :----: | :---: |
 | 01 | Create a multiplayer flappy bird game where users can invite their friends and play against each other |
