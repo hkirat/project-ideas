@@ -5,7 +5,7 @@
   - Frontend should allow users to signup, create accounts and create a room
   - On room creation, they can share the link with their friend who can join the group as well
   - Add move validation to make sure users can only make valid moves
-  - Use either canvas or raw HTML blocks for the game. You may also use a game engnie like phaser.
+  - Use either canvas or raw HTML blocks for the game. You may also use a game engine like phaser.
   - You will need to do socket programming since this is a realtime game.
   
  ### 2 player flappy bird
