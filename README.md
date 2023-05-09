@@ -1,8 +1,10 @@
-## Project ideas to target GSoC 2024
+<br>
 
----
+![logo](https://raw.githubusercontent.com/itxsoumya/images/main/GSoC.png)
 
-| Todo | ♟️ CHESS ♟️ |
+<br>
+
+|  | ♟️ CHESS ♟️ |
 | :----: | :---: |
 | 01 | Build a multiplayer chess game like https://chess.com |
 | 02 | Frontend should allow users to signup, create accounts and create a room |
@@ -14,7 +16,7 @@
 <br>
 <br> 
 
-| Todo | 🐤 PLAYER FLAPPY BIRD 🐤 |
+|  | 🐤 PLAYER FLAPPY BIRD 🐤 |
 | :----: | :---: |
 | 01 | Create a multiplayer flappy bird game where users can invite their friends and play against each other |
 | 02 | Use raw canvas for rendering, and write all physics yourself (Basic physics like acc, velocity ...) |
@@ -23,7 +25,7 @@
 <br>
 <br>
 
-| Todo | 🤖 CREATE A UI ON TOP OF CHAT-GPT API 🤖 |
+|  | 🤖 CREATE A UI ON TOP OF CHAT-GPT API 🤖 |
 | :----: | :---: |
 | 01 | Create a ChatGPT clone using their APIs |
 | 02 | Use their APIs on the backend, relay the information to your frontend |
@@ -33,7 +35,7 @@
 <br><br>
 
 
-| Todo | 🤖 CREATE AN MULTI CHAIN AIRDROPPING WEBSITE |
+|  | 🔗 CREATE AN MULTI CHAIN AIRDROPPING WEBSITE 🔗 |
  :----: | :---: |
 | 01 | Build a website that lets users airdrop various crypto currencies to them on their respective testnets |
 | 02 | User should be allowed to select the chain (ETH, SOL, Polygon, ARB) and put in an address where they want the native token sent |
