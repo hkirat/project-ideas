@@ -16,7 +16,7 @@
 <br>
 <br> 
 
-|  | 🐤 PLAYER FLAPPY BIRD 🐤 |
+|  | 🐤 MULTIPLAYER FLAPPY BIRD GAME 🐤 |
 | :----: | :---: |
 | 01 | Create a multiplayer flappy bird game where users can invite their friends and play against each other |
 | 02 | Use raw canvas for rendering, and write all physics yourself (Basic physics like acc, velocity ...) |
@@ -35,7 +35,7 @@
 <br><br>
 
 
-|  | 🔗 CREATE AN MULTI CHAIN AIRDROPPING WEBSITE 🔗 |
+|  | 🔗 CREATE A MULTICHAIN AIRDROPPING WEBSITE 🔗 |
  :----: | :---: |
 | 01 | Build a website that lets users airdrop various crypto currencies to them on their respective testnets |
 | 02 | User should be allowed to select the chain (ETH, SOL, Polygon, ARB) and put in an address where they want the native token sent |
