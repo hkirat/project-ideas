@@ -2,6 +2,11 @@
 
 ![logo](https://raw.githubusercontent.com/itxsoumya/images/main/GSoC.png)
 
+## Social Links
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCWX0cUR2rZcqKei1Vstww-A)
+
+## Project Ideas
 <br>
 
 |  | ♟️ CHESS ♟️ |
@@ -41,7 +46,3 @@
 | 02 | User should be allowed to select the chain (ETH, SOL, Polygon, ARB) and put in an address where they want the native token sent |
 | 03 | User should be able to select the amount they want to  |
 
-
-
-## Link to the youtube channel
-https://www.youtube.com/channel/UCWX0cUR2rZcqKei1Vstww-A
