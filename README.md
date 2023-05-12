@@ -46,3 +46,14 @@
 | 02 | User should be allowed to select the chain (ETH, SOL, Polygon, ARB) and put in an address where they want the native token sent |
 | 03 | User should be able to select the amount they want to  |
 
+
+
+
+|  | 🎬 MOVIE RECOMMENDATION ENGINE 🎬 |
+ :----: | :---: |
+| 01 |  Build a movie recommendation engine that suggests movies to users based on their preferences |
+| 02 | Allow users to sign up, create accounts and rate movies they have watched in the past | 
+| 03 |  Use collaborative filtering or content-based filtering techniques to suggest movies to users |
+| 04 | Allow users to filter movies based on genre, language, and other criteria | 
+| 05 |Use APIs like IMDb or TMDB to fetch movie data and display movie posters |
+
