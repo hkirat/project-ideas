@@ -47,6 +47,7 @@
 | 03 | User should be able to select the amount they want to  |
 
 
+<br>
 
 
 |  | 🎬 MOVIE RECOMMENDATION ENGINE 🎬 |
@@ -57,3 +58,21 @@
 | 04 | Allow users to filter movies based on genre, language, and other criteria | 
 | 05 |Use APIs like IMDb or TMDB to fetch movie data and display movie posters |
 
+<br>
+
+<br>
+  
+
+
+
+|  |  🧘 MEDITATION APP 🧘   |
+ :----: | :---: |
+| 01 | Create a meditation app that provides guided meditation sessions to users |
+| 02 | Implement different types of meditation sessions like mindfulness, body scan, and loving-kindness meditation | 
+| 03 | Use APIs like OpenAI GPT-3 to generate personalized meditation scripts based on user preferences |
+| 04 | Allow users to track their meditation progress and set reminders for their meditation sessions  | 
+| 05 | Provide ambient sounds and nature sounds to help users relax and focus during their meditation sessions |
+
+
+
+<br>
