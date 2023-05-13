@@ -46,3 +46,15 @@
 | 02 | User should be allowed to select the chain (ETH, SOL, Polygon, ARB) and put in an address where they want the native token sent |
 | 03 | User should be able to select the amount they want to  |
 
+<br><br>
+
+
+|  | 0️⃣ SUDOKU 9️⃣ |
+| :----: | :---: |
+| 01 | Build a sudoku game like https://sudoku.com/ |
+| 02 | Use a grid layout for the game board. |
+| 03 | Style the game board, input fields, and other elements of the app. |
+| 04 | Handle the game logic, including generating a new puzzle, validating the user's input, and checking for a winning condition. |
+| 05 | Add timer, difficulty levels, and a hint system if you have completed above stuff. |
+
+<br><br>
