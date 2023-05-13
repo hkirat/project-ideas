@@ -24,7 +24,7 @@
 | 06 | You will need to do socket programming since this is a realtime game. |
 
 <br>
-<br> 
+<br>
 
 |  | 🐤 MULTIPLAYER FLAPPY BIRD GAME 🐤 |
 | :----: | :---: |
@@ -51,3 +51,11 @@
 | 02 | User should be allowed to select the chain (ETH, SOL, Polygon, ARB) and put in an address where they want the native token sent |
 | 03 | User should be able to select the amount they want to  |
 
+<br><br>
+
+|  | 🔗 INVALID LINKS FINDER WEBSITE 🔗 |
+ :----: | :---: |
+| 01 |	Create a website that allows users to input a website link which is sent to the server. |
+| 02 |	The server will perform web crawling on the website, limited to a specified depth of recursive pages, and check whether all hyperlinks in those pages are valid. |
+| 03 |	Users can input the website link and the maximum depth for the search of pages. |
+| 04 |	The server will perform the analysis and report any invalid links and their location to the user on the frontend. |
