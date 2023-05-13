@@ -28,7 +28,7 @@
 
 |  | 🐤 MULTIPLAYER FLAPPY BIRD GAME 🐤 |
 | :----: | :---: |
-| 01 | Create a multiplayer flappy bird game where users can invite their friends and play against each other |
+| 01 | Create a multiplayer flappy bird game where users can invite their friends and play against each other like [this project.](https://github.com/ourcade/flappy-bird-hathora)|
 | 02 | Use raw canvas for rendering, and write all physics yourself (Basic physics like acc, velocity ...) |
 | 03 | You will need to do socket programming since this is a realtime game. Sockets would relay the positions of users to each other. |
 
