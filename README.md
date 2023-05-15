@@ -21,16 +21,16 @@
 | 03 | On room creation, they can share the link with their friend who can join the group as well
 | 04 | Add move validation to make sure users can only make valid moves
 | 05 | Use either canvas or raw HTML blocks for the game. You may also use a game engine like phaser. |
-| 06 | You will need to do socket programming since this is a realtime game. |
+| 06 | You will need to do socket programming since this is a real-time game. |
 
 <br>
 <br> 
 
 |  | 🐤 MULTIPLAYER FLAPPY BIRD GAME 🐤 |
 | :----: | :---: |
-| 01 | Create a multiplayer flappy bird game where users can invite their friends and play against each other |
+| 01 | Create a multiplayer flappy bird game where users can invite their friends and play against each other like [this project.](https://github.com/ourcade/flappy-bird-hathora)|
 | 02 | Use raw canvas for rendering, and write all physics yourself (Basic physics like acc, velocity ...) |
-| 03 | You will need to do socket programming since this is a realtime game. Sockets would relay the positions of users to each other. |
+| 03 | You will need to do socket programming since this is a real-time game. Sockets would relay the positions of users to each other. |
 
 <br>
 <br>
