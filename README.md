@@ -44,6 +44,14 @@
 
 <br><br>
 
+|  | CREATE A LOW LATENCY TRADING SYSTEM IN RUST |
+| :----: | :---: |
+| 01 | Create a WebSocket server in rust |
+| 02 | Send data that looks similar to trading applications (create order, cancel order) |
+| 03 | Compress data as much as you can. Read about pbfs |
+| 04 | Regionally distribute this trading application and send trades closer to the main server |
+
+<br><br>
 
 |  | 🔗 CREATE A MULTICHAIN AIRDROPPING WEBSITE 🔗 |
  :----: | :---: |
