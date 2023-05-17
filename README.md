@@ -24,7 +24,7 @@
 | 06 | You will need to do socket programming since this is a real-time game. |
 
 <br>
-<br> 
+<br>
 
 |  | 🐤 MULTIPLAYER FLAPPY BIRD GAME 🐤 |
 | :----: | :---: |
@@ -67,3 +67,13 @@
 | 10 |	Consider partnering with other crypto projects to offer exclusive airdrops or promotional offers to users of the website, which could help attract more users and increase engagement.
 | 11 |	Make sure to comply with all relevant regulations and laws in the jurisdictions where the website will be accessible, as failure to do so could result in legal and financial consequences.
 | 12 |	Regularly update and maintain the website to ensure that it remains secure and functional, and to address any bugs or issues that may arise.
+
+<br><br>
+
+|  | 🔗 INVALID LINKS FINDER WEBSITE 🔗 |
+ :----: | :---: |
+| 01 |	Create a website that allows users to input a website link which is sent to the server. |
+| 02 |	The server will perform web crawling on the website, limited to a specified depth of recursive pages, and check whether all hyperlinks in those pages are valid. |
+| 03 |	Users can input the website link and the maximum depth for the search of pages. |
+| 04 |	The server will perform the analysis and report any invalid links and their location to the user on the frontend. |
+
