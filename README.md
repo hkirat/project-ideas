@@ -26,6 +26,20 @@
 <br>
 <br> 
 
+|  | 📦 STACK OVERFLOW BACKEND 📦 |
+| :----: | :---: |
+| 01 | Build the backend infrastructure for a Stack Overflow-like application. |
+| 02 | Implement user authentication and authorization functionalities for user registration, login, and account management. |
+| 03 | Design a database schema to store user information, questions, answers, comments, and other relevant data. |
+| 04 | Develop endpoints to handle operations such as creating, updating, and deleting questions, answers, and comments. |
+| 05 | Implement search functionality to allow users to search for questions based on tags, keywords, or other criteria.  |
+| 06 | Include features for voting on questions and answers to determine their popularity and ranking. |
+| 07 | Implement notification system to notify users of activities related to their questions, answers, or comments. |
+| 08 | Enable pagination and filtering options for retrieving lists of questions, answers, and comments. |
+
+<br>
+<br>
+
 |  | 🐤 MULTIPLAYER FLAPPY BIRD GAME 🐤 |
 | :----: | :---: |
 | 01 | Create a multiplayer flappy bird game where users can invite their friends and play against each other like [this project.](https://github.com/ourcade/flappy-bird-hathora)|
