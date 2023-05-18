@@ -58,12 +58,33 @@
 | 01 | Build a website that lets users airdrop various crypto currencies to them on their respective testnets |
 | 02 | User should be allowed to select the chain (ETH, SOL, Polygon, ARB) and put in an address where they want the native token sent |
 | 03 | User should be able to select the amount they want to  |
-| 04 |	Implement a user authentication system to ensure the security of user data and prevent fraud or abuse of the airdropping feature.
-| 05 |	Enable users to easily view their airdropped tokens and transaction history for each chain on the website.
-| 06 |	Include a feature that allows users to track the progress of their airdropped tokens, such as through email notifications or real-time updates on the website.
-| 07 |	Consider implementing a referral program that incentivizes users to share the website with their friends and family.
-| 08 |	Ensure that the website is optimized for mobile devices, as many users may prefer to access the website from their smartphones.
-| 09 |	Provide clear and concise instructions on how to use the website and participate in the airdrops to minimize confusion and errors.
-| 10 |	Consider partnering with other crypto projects to offer exclusive airdrops or promotional offers to users of the website, which could help attract more users and increase engagement.
-| 11 |	Make sure to comply with all relevant regulations and laws in the jurisdictions where the website will be accessible, as failure to do so could result in legal and financial consequences.
-| 12 |	Regularly update and maintain the website to ensure that it remains secure and functional, and to address any bugs or issues that may arise.
+
+
+
+<br>
+
+
+|  | 🎬 MOVIE RECOMMENDATION ENGINE 🎬 |
+ :----: | :---: |
+| 01 |  Build a movie recommendation engine that suggests movies to users based on their preferences |
+| 02 | Allow users to sign up, create accounts and rate movies they have watched in the past | 
+| 03 |  Use collaborative filtering or content-based filtering techniques to suggest movies to users |
+| 04 | Allow users to filter movies based on genre, language, and other criteria | 
+| 05 |Use APIs like IMDb or TMDB to fetch movie data and display movie posters |
+
+<br>
+
+<br>
+  
+
+
+
+|  |  🧘 MEDITATION APP 🧘   |
+ :----: | :---: |
+| 01 | Create a meditation app that provides guided meditation sessions to users |
+| 02 | Implement different types of meditation sessions like mindfulness, body scan, and loving-kindness meditation | 
+| 03 | Use APIs like OpenAI GPT-3 to generate personalized meditation scripts based on user preferences |
+| 04 | Allow users to track their meditation progress and set reminders for their meditation sessions  | 
+| 05 | Provide ambient sounds and nature sounds to help users relax and focus during their meditation sessions |
+
+<br>
