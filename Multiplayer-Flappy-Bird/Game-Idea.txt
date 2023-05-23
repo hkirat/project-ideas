@@ -10,3 +10,5 @@ Here are some additional ideas we could consider for the multiplayer flappy bird
 8. Implement different obstacle types, such as moving obstacles or obstacles that can be destroyed by the player's bird.
 9. Integrate ads or in-game purchases to monetize the game.
 10. Add support for multiple languages to make the game accessible to players around the world.
+As soon as 90% of the level is over, the remaining 10% should have a boss of that level.
+This Boss Will Also Bring Extra Abilities With Level Up.
