@@ -44,7 +44,7 @@
 
 <br><br>
 
-|  | CREATE A LOW LATENCY TRADING SYSTEM IN RUST |
+|  | ⚡ CREATE A LOW LATENCY TRADING SYSTEM IN RUST ⚡ |
 | :----: | :---: |
 | 01 | Create a WebSocket server in rust |
 | 02 | Send data that looks similar to trading applications (create order, cancel order) |
