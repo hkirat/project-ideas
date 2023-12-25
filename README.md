@@ -66,4 +66,4 @@
 | 09 |	Provide clear and concise instructions on how to use the website and participate in the airdrops to minimize confusion and errors.
 | 10 |	Consider partnering with other crypto projects to offer exclusive airdrops or promotional offers to users of the website, which could help attract more users and increase engagement.
 | 11 |	Make sure to comply with all relevant regulations and laws in the jurisdictions where the website will be accessible, as failure to do so could result in legal and financial consequences.
-| 12 |	Regularly update and maintain the website to ensure that it remains secure and functional, and to address any bugs or issues that may arise.
+| 12|	Regularly update and maintain the website to ensure that it remains secure and functional throughout, and to address any bugs or issues that may arise.
